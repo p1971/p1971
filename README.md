@@ -22,6 +22,8 @@ I'm currently working on a workflow implementation for dotnet standard. Repo is 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1971&repo=pi_info&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1971&theme=tokyonight)
+
 ## What I'm a learning
 
 ![react](https://img.shields.io/badge/learn-react-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
