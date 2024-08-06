@@ -18,10 +18,6 @@ I'm currently working on a workflow implementation for dotnet standard. Repo is 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=p1971&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="p1971's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1971&repo=devops&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1971&repo=pi_info&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
 ## What I'm a learning
 
 ![react](https://img.shields.io/badge/learn-react-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
